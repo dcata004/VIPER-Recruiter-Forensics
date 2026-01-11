@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Cata"
+  given-names: "Anthony D."
+  affiliation: "Cata Risk Lab"
+  orcid: "https://orcid.org/0009-000X-XXXX-XXXX"
+title: "V.I.P.E.R.: Vendor Integrity & Personnel Email Reconnaissance"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXX
+date-released: 2026-01-10
+url: "https://huggingface.co/spaces/Cata-Risk-Lab/VIPER-Audit"
+license: MIT
+abstract: "A forensic text analysis engine designed to detect linguistic markers of algorithmic resume harvesting and low-integrity recruitment practices in the IT sector."
+keywords:
+  - "Data Privacy"
+  - "Forensics"
+  - "Recruitment Scam"
+  - "Resume Harvesting"
+  - "Sovereign AI"
